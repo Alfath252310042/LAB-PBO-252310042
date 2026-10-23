@@ -6,10 +6,10 @@ public class Nyoba_segitiga {
 	public static void main(String[] args) {
 		System.out.println("Menghitung Luas Segitia: ");
 		
-		segitia segitia = new Segitia_1();
+		segitia segitiga = new Segitiga_1();
 		Scanner scanner = new Scanner(System.in);
 		
 		System.out.print("Masukan Panjang Balok: ");
-		segitia_1.alas = scanner.nextDouble();
+		Segitia_1.alas = scanner.nextDouble();
 	}
 }
